@@ -1,6 +1,6 @@
 # Regression-Based Age Prediction Model
 
-This project was developed as part of the **Data Science Lab** course in the **Master’s Degree in Data Science and Engineering** at **Politecnico di Torino**. \it  applies machine learning regression techniques to predict a person's age based on voice and audio-related features.
+This project was developed as part of the **Data Science Lab** course in the **Master’s Degree in Data Science and Engineering** at **Politecnico di Torino**. It  applies machine learning regression techniques to predict a person's age based on voice and audio-related features.
 
 The goal is to train and compare different regression models using structured audio data, evaluate their performance, and generate age predictions for an evaluation dataset.
 
